@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

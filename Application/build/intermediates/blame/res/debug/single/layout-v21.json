@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sp/.android/build-cache/d9d49c224bb518afab9d291d306c107c4729e984/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sp/.android/build-cache/d9d49c224bb518afab9d291d306c107c4729e984/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sp/.android/build-cache/d9d49c224bb518afab9d291d306c107c4729e984/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/sp/.android/build-cache/d9d49c224bb518afab9d291d306c107c4729e984/output/res/layout-v21/notification_action.xml"
+    }
+]

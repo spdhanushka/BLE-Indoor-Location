@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/home/sp/myworkspace/research/sampleApps/BluetoothLeGatt/Application/src/main/res/menu/gatt_services.xml"
+    }
+]
